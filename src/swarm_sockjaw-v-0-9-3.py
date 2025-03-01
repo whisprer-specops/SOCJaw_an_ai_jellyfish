@@ -2872,7 +2872,7 @@ class RemoteSystemControlAgent:
 
 
 #**********************************************************************************
-# Computational Resource MAnager Setup
+# Computational Resource Manager Setup
 #**********************************************************************************
 
     # Defining computational resource manager function
@@ -3810,7 +3810,7 @@ while True:
 
 
 #************************************************************************************************
-# Self Monitoring Ano9maly Detector
+# Self Monitoring Anomaly Detector
 #************************************************************************************************
 
     class AnomalyDetector:
